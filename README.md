@@ -7,4 +7,4 @@ The script database.py takes the csv file from the database and transforms into 
 
 When the pickle files are already generated, the scripts multiNN.py, NN_3JHN.py and NN_3JHH.py can be compiled. The basic diference beetween the scripts is that the individual scripts (NN_3JHN.py and NN_3JHH.py) generate bigger networks, and make use of extra resources such as batch Normalizations and Dropouts to sustain the stability of the bigger Network.
 
-Therefore, NN_3JHN.py and NN_3JHH.py are more precise but more demanding computationaly.
+Therefore, NN_3JHN.py and NN_3JHH.py are more precise but more  computationally demanding.
